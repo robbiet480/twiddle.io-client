@@ -1,0 +1,10 @@
+Package: com.hapihack.twiddl.io
+Name: twiddl.io
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: browsa txtin, ya!
+Maintainer: Ankur Oberoi
+Author: Ankur Oberoi
+Section: System
+Tag: role::hacker
